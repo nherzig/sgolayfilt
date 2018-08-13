@@ -1,0 +1,1 @@
+This sgolay filter takes as input a vector with the unfilter data and the N*N matrix Savitzky-Golay FIR smoothing filter designed with N the frame length and the order.
